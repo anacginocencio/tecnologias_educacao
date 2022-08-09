@@ -10,6 +10,7 @@
 ### Materiais
 - [Plano de Ensino](plano_ensino_tecnologia.pdf)
 - [Slides aula 01](historico.pdf)
+- [Site programação logo](https://turtleacademy.com/)
 
 
 ### Video aulas  -  Histórico da Informática na Educação0
