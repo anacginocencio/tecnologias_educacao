@@ -1,4 +1,4 @@
-# O uso de “tecnologias” no processo de ensino-aprendizagem - Curso de Ciência da Computação - UFJ
+# O uso de “tecnologias” no processo de ensino-aprendizagem - Núcleo Livre - UFJ
 
 ## PLANEJAMENTO SEMESTRAL – 2022/1
 
