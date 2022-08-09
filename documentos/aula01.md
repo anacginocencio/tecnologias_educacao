@@ -13,7 +13,7 @@
 
 
 ### Video aulas  -  Histórico da Informática na Educação0
-[![Aula - Historico](capa_aula1.png)]()
+[![Aula - Historico](capa_aula01.png)](https://youtu.be/ZGX5UnzNQjs)
 
 ### Desenvolvimento aula 01 - teórica: 
 
