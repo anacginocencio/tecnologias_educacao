@@ -1,4 +1,4 @@
-# Aula 01 e 02 - O uso de "tecnologias" no processo de ensino e aprendizagem
+# O uso de "tecnologias" no processo de ensino e aprendizagem
 ## Tema aula - Histórico da Informática na Educação
  
 >  * Apresentação da Disciplina e plano de ensino / Histórico da Informática na Educação
