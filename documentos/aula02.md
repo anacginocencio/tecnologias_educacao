@@ -14,6 +14,7 @@
 
 ### Video aula  -  Os novos perfis de alunos e professores
 [![Aula - Novos perfis alunos e professores](capa_aula02.png)]()
+[![Aula Prática - Novos perfis alunos e professores](capa_aula03.png)]()
 
 ### Desenvolvimento aula 01 - teórica: 
 
