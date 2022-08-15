@@ -1,6 +1,6 @@
 ### CRONOGRAMA AULAS
 - [Histórico Informática na Educação](aula01.md)
-- [Os novos perfis - Aluno e Professor]()
+- [Os novos perfis - Aluno e Professor](aula02.md)
 - [Tecnologias que Educam]()
 - [Roteiro para jogos educacionais]()
 - [Os tipos de Software Educacional]()
