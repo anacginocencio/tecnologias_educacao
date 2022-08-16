@@ -1,11 +1,22 @@
-### CRONOGRAMA AULAS
-- [Histórico Informática na Educação](aula01.md)
-- [Os novos perfis - Aluno e Professor](aula02.md)
-- [Tecnologias que Educam]()
-- [Roteiro para jogos educacionais]()
-- [Os tipos de Software Educacional]()
-- [Jogos Sérios]()
-- [Gamificação]()
-- [Ambientes Virtuais de Aprendizagem]()
-- [Educação a Distância e o Aluno Virtual]()
-- [M-Learning e U-Learning]()
+# CRONOGRAMA AULAS
+- 09 a 10 de agosto de 2022 - [Histórico Informática na Educação - DISPONÍVEL](aula01.md)
+- 16 a 17 de agosto de 2022 - [Os novos perfis - Aluno e Professor - DISPONÍVEL](aula02.md)
+- 23 a 31 de agosto de 2022 - [Tecnologias que Educam - NÃO DISPONÍVEL]()
+- 06 de setembro de 2022 - [Roteiro para jogos educacionais - NÃO DISPONÍVEL]()
+#### 07 DE SETEMBRO DE 2022 - FERIADO INDEPENDÊNCIA DO BRASIL
+- 13 a 14 de setembro de 2022 - [Os tipos de Software Educacional - NÃO DISPONÍVEL]()
+- 20 a 21 de setembro de 2022 - [Jogos Sérios - NÃO DISPONÍVEL]()
+- 27 a 28 de setembro de 2022 - [Gamificação - NÃO DISPONÍVEL]()
+#### 04 DE OUTUBRO DE 2022 - ENTREGA ROTEIRO JOGO EDUCACIONAL
+#### 05 DE OUTUBRO DE 2022 - NÃO HAVERÁ AULA - AVALIAÇÃO INEP
+#### 11 DE OUTUBRO DE 2022 - ENTREGA E DISCUSSÃO N1
+#### 12 DE OUTUBRO DE 2022 - FERIADO NOSSA SENHORA APARECIDA
+#### 18 A 19 DE OUTUBRO DE 2022 - CONEPE(https://conepe.ufj.edu.br/)
+- 25 a 26 de outubro de 2022 - [Ambientes Virtuais de Aprendizagem - NÃO DISPONÍVEL]()
+- 01 a 08 de novembro de 2022 - [Educação a Distância e o Aluno Virtual - NÃO DISPONÍVEL]()
+#### 02 DE NOVEMBRO DE 2022 - FERIADO FINADOS
+- 16 a 22 de novembro de 2022 - [M-Learning e U-Learning - NÃO DISPONÍVEL]()
+- 23 de novembro de 2022 - [O futuro das tecnologias no processo de ensino e aprendizabem - NÃO DISPONÍVEL]()
+- 29 a 30 de novembro de 2022 - [Desenvolvimento Projeto - NÃO DISPONÍVEL]()
+#### 02 DE DEZEMBRO DE 2022 - ENTREGA PROTÓTIPO JOGO
+#### 05 DE DEZEMBRO DE 2022 - ENTREGA E DISCUSSÃO MÉDIAS FINAIS
