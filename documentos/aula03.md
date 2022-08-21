@@ -39,13 +39,15 @@
 
 ### Desenvolvimento aula 03 - teórica: 
 
-- [ ]  Quem é este alunos e quem são os professores?
-- [ ]  As diferentes gerações (Baby Boomers, Geração X, Geração Y, Geração Z)
+- [ ]  Continuando o uso do navegador, o que seria aprender com COMUNICAÇÃO?
+- [ ]  Tecnologias que auxiliam: Whatsapp, Messenger e Facebook, Instagram, TikTok,Fóruns, GoogleClassroom, Microsoft Teams, Streamyard, Twitter
+- [ ]  Questionários em tempo real: Poll Everywher
+- [ ]  Exemplo Poll: Escolha meio de comunicação com a turma
+- [ ]  Exemplo Poll: Qual geração vocês fazem parte?
+- [ ]  O uso do navegador informação e comunicação COM ensinar.
+- [ ]  Construção conteúdo colaborativo: Wikipédia, Site Colaborativo
 - [ ]  Competências do professor moderno
 - [ ]  Perfil do professor moderno (comunicação,colaboração, criatividade, Senso Crítico)
 
 ### Desenvolvimento aula 04 - prática: 
-- [ ]  Ferramenta que auxilia no desenvolvikmento da criatividade
-- [ ]  RPG
-- [ ]  Jogos de RPG famosos
-- [ ]  [Prática com rpg playground](https://rpgplayground.com)
+- [ ]  [Utilização do Poll Everywhere](https://www.polleverywhere.com/)
