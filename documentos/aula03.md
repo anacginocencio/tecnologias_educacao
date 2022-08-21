@@ -1,9 +1,9 @@
 # O uso de "tecnologias" no processo de ensino e aprendizagem
 ## Tema aula - Tecnologias que Educam
  
->  * Quem são esses novos alunos e professores?
+>  * O que são tecnologias? Exemplos de tecnologias e suas aplicações.
 
-## Atividades da aula - Apresentação plano de ensino, Breve resgate histórico da informática na educação
+## Atividades da aula - O que são tecnologias? Práticas de navegações com navegadores, só que não por oceanos.Navegador 
 
 ## Instalação da Disciplina
 
