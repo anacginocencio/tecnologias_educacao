@@ -18,21 +18,24 @@
 
 
 ### Video aulas  -  Tecnologias que educam
-[![Aula - Tecnologias que educam - Parte 1](capa_aula04.png)]()
-[![Aula - Tecnologias que educam - Parte 2](capa_aula05.png)]()
+[![Aula - Tecnologias que educam - Parte 1](capa_aula04.png)](https://youtu.be/3Qyvy_SLjRA)
+[![Aula - Tecnologias que educam - Parte 2](capa_aula05.png)](https://youtu.be/crfHCfZMbkE)
 
 ### Desenvolvimento aula 01 - teórica: 
 
-- [ ]  Quem é este alunos e quem são os professores?
-- [ ]  As diferentes gerações (Baby Boomers, Geração X, Geração Y, Geração Z)
-- [ ]  Competências do professor moderno
-- [ ]  Perfil do professor moderno (comunicação,colaboração, criatividade, Senso Crítico)
+- [ ]  O que é tecnologia?
+- [ ]  Período de práticas de navegações, inclusive com navegadores
+- [ ]  Livros e biblioteca - aprender é o processo predominante
+- [ ]  Quadros, projetores - práticas de informação e o processo ensinar
+- [ ]  Laboratórios, Jogos e Simuladores - Maior imersão, interação e engajamento.
+- [ ]  Apresentação NAVEGADOR - informação, ensinar, comunicação, aprender
+- [ ]  Exemplo de busca no Google acadêmico para demonstrar a prática de APRENDER COM INFORMAÇÃO - Como organizar? Como melhor sistematizar?
 
 ### Desenvolvimento aula 02 - prática: 
-- [ ]  Ferramenta que auxilia no desenvolvikmento da criatividade
-- [ ]  RPG
-- [ ]  Jogos de RPG famosos
-- [ ]  [Prática com rpg playground](https://rpgplayground.com)
+- [ ]  Como realizar buscas de forma a encontrar as informações necessárias
+- [ ]  Busca avançada no Google Acadêmico
+- [ ]  Uso do ZOTERO
+- [ ]  Uso do MENDELEY
 
 ### Desenvolvimento aula 03 - teórica: 
 
