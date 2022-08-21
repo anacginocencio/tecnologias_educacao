@@ -34,8 +34,8 @@
 ### Desenvolvimento aula 02 - prática: 
 - [ ]  Como realizar buscas de forma a encontrar as informações necessárias
 - [ ]  Busca avançada no Google Acadêmico
-- [ ]  Uso do ZOTERO
-- [ ]  Uso do MENDELEY
+- [ ]  [Uso do ZOTERO](https://www.zotero.org/download//)
+- [ ]  [Uso do MENDELEY](https://www.mendeley.com/?interaction_required=true)
 
 ### Desenvolvimento aula 03 - teórica: 
 
