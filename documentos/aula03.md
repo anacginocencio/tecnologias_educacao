@@ -20,6 +20,7 @@
 ### Video aulas  -  Tecnologias que educam
 [![Aula - Tecnologias que educam - Parte 1](capa_aula04.png)](https://youtu.be/3Qyvy_SLjRA)
 [![Aula - Tecnologias que educam - Parte 2](capa_aula05.png)](https://youtu.be/crfHCfZMbkE)
+[![Aula - Tecnologias que educam - Parte 2](capa_aula06.png)](https://youtu.be/crfHCfZMbkE)
 
 ### Desenvolvimento aula 01 - teórica: 
 
