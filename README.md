@@ -3,6 +3,7 @@
 ## PLANEJAMENTO SEMESTRAL – 2022/1
 
 - [Aulas toda Terça-feira e Quarta-feira 17h20 às 19h - LEC 2]
+- [Plano de Ensino](documentos/plano_ensino.pdf)
 - [Roteiro de aulas e materiais](documentos/roteiro.md)
 
 
