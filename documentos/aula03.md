@@ -43,7 +43,7 @@
 
 - [ ]  Continuando o uso do navegador, o que seria aprender com COMUNICAÇÃO?
 - [ ]  Tecnologias que auxiliam: Whatsapp, Messenger e Facebook, Instagram, TikTok,Fóruns, GoogleClassroom, Microsoft Teams, Streamyard, Twitter
-- [ ]  Questionários em tempo real: Poll Everywher
+- [ ]  Questionários em tempo real: Poll Everywhere
 - [ ]  Exemplo Poll: Escolha meio de comunicação com a turma
 - [ ]  Exemplo Poll: Qual geração vocês fazem parte?
 - [ ]  O uso do navegador informação e comunicação COM ensinar.
