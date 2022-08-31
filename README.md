@@ -5,6 +5,7 @@
 - [Aulas toda Terça-feira e Quarta-feira 17h20 às 19h - LEC 2]
 - [Plano de Ensino](documentos/plano_ensino.pdf)
 - [Roteiro de aulas e materiais](documentos/roteiro.md)
+- [WhatsApp Dúvidas e informações](https://chat.whatsapp.com/Dwz0IBAm1S9DXmEKXwRuuj)
 
 
 ##  CRONOGRAMA AVALIAÇÕES E ENTREGAS
