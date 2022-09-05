@@ -10,7 +10,7 @@
 - [Template Roteiro](ROTEIRO_JOGO_EDUCACIONAL.pptx)
 
 
-## Tecnolgias aula prática
+## Tecnologias aula prática
 - [CANVA](https://www.canva.com/pt_br/login/?shouldClearGotAutoSelect)
 
 
