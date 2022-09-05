@@ -7,6 +7,7 @@
 
 ### Materiais
 - [Slides aula - Roteiros Jogos Educacionais ](roteiro.pdf)
+- [Template Roteiro](ROTEIRO_JOGO_EDUCACIONAL.pptx)
 
 
 ## Tecnolgias aula prática
@@ -14,12 +15,17 @@
 
 
 ### Video aula  -  Roteiro Jogos Educacionais - Teoria e Prática
-[![Aula - Tecnologias que educam - Parte 1](capa_aula08.png)](https://youtu.be/EUByoCa-_80)
+[![Aula - Roteiro Jogos Educacionais](capa_aula08.png)](https://youtu.be/EUByoCa-_80)
 
 
 ### Desenvolvimento aula teórica: 
 
-- [ ]  O que é tecnologia?
+- [ ]  Jogos educacionais como jogos sérios
+- [ ]  Narrativa como interativas: IMERSÃO, AÇÃO e TRANSFORMAÇÃO
+- [ ]  Desenvolvimento do roteiro:
+- [ ]  Definir a ideia do jogo (conteúdo, narrativa e jogadores); Definir os objetivos educacionais ; Definir os personagens e suas funções no jogo; Definir os conflitos; Fazer a representação visual por meio de um storyboard
 
 ### Desenvolvimento aula  - prática: 
-- [ ]  Como realizar buscas de forma a encontrar as informações necessárias
+- [ ]  Como representar o jogo educacional idealizado por meio de storyboard 
+- [ ]  Ferramenta a ser utilizada
+- [CANVA](https://www.canva.com/pt_br/login/?shouldClearGotAutoSelect)
