@@ -31,11 +31,13 @@
 
 ### Desenvolvimento aula teórica: 
 
-- [ ]  Definiç
-- [ ]  Desenvolvimento do roteiro:˜ao 
-- [ ]  Desenvolvimento do roteiro:
+- [ ]  Definição Software Educacional (diferentes visões)
+- [ ]  Tipos de software educacional: tutoriais;programação, exercício e prática, aplicativos, multimídia e Internet, simulação e modelagem, jogos educacionais, objetos de aprendizagem
 
 ### Desenvolvimento aula  - prática: 
-- [ ]  Como representar o jogo educacional idealizado por meio de storyboard 
-- [ ]  Ferramenta a ser utilizada
-- [CANVA](https://www.canva.com/pt_br/login/?shouldClearGotAutoSelect)
+- [ ]  Definição grupos de trabalho
+- [ ]  Lembrar da primeira atividade de gamificação
+- [ ]  Como desenvolver atividades do Wordwall
+- [ ]  Desenvolvimento individual de atividades na ferramenta
+- [ ]  Apresentação da atividade desenvolvida
+- [Wordwall](https://wordwall.net/)
