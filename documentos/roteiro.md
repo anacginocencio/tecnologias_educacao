@@ -4,7 +4,7 @@
 - 23 a 31 de agosto de 2022 - [Tecnologias que Educam - DISPONÍVEL](aula03.md)
 - 06 de setembro de 2022 - [Roteiro para jogos educacionais - DISPONÍVEL](aula04.md)
 #### 07 DE SETEMBRO DE 2022 - FERIADO INDEPENDÊNCIA DO BRASIL
-- 13 a 14 de setembro de 2022 - [Os tipos de Software Educacional - NÃO DISPONÍVEL]()
+- 13 a 14 de setembro de 2022 - [Os tipos de Software Educacional - DISPONÍVEL](aula05.md)
 - 20 a 21 de setembro de 2022 - [Jogos Sérios - NÃO DISPONÍVEL]()
 - 27 a 28 de setembro de 2022 - [Gamificação - NÃO DISPONÍVEL]()
 #### 04 DE OUTUBRO DE 2022 - ENTREGA ROTEIRO JOGO EDUCACIONAL
