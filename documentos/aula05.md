@@ -31,10 +31,9 @@
 
 ### Desenvolvimento aula teórica: 
 
-- [ ]  Jogos educacionais como jogos sérios
-- [ ]  Narrativa como interativas: IMERSÃO, AÇÃO e TRANSFORMAÇÃO
+- [ ]  Definiç
+- [ ]  Desenvolvimento do roteiro:˜ao 
 - [ ]  Desenvolvimento do roteiro:
-- [ ]  Definir a ideia do jogo (conteúdo, narrativa e jogadores); Definir os objetivos educacionais ; Definir os personagens e suas funções no jogo; Definir os conflitos; Fazer a representação visual por meio de um storyboard
 
 ### Desenvolvimento aula  - prática: 
 - [ ]  Como representar o jogo educacional idealizado por meio de storyboard 
