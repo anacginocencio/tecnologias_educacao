@@ -13,8 +13,7 @@
 >  * Gamificação - Apresentação de tecnologias valendo pontuação gamificação
 
 ### Video aulas  -  Tipos de Software Educacional - Teoria e Prática
-[![Aula - Jogos Sérios - Teórica](capa_aula11.png)]()
-[![Aula - Jogos Sérios - Prática](capa_aula12.png)]()
+[![Aula - Jogos Sérios](capa_aula11.png)]()
 
 
 ### Desenvolvimento aula teórica: 
