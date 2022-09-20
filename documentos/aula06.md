@@ -13,7 +13,7 @@
 >  * Gamificação - Apresentação de tecnologias valendo pontuação gamificação
 
 ### Video aulas  -  Jogos Sérios - Teoria e Prática
-[![Aula - Jogos Sérios](capa_aula11.png)]()
+[![Aula - Jogos Sérios](capa_aula11.png)](https://youtu.be/Ths_58hrPWs)
 
 
 ### Desenvolvimento aula teórica: 
