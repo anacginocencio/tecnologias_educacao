@@ -24,8 +24,8 @@
 
 
 ### Video aulas  -  Tipos de Software Educacional - Teoria e Prática
-[![Aula - Tipos de Software Educacional - Teórica](capa_aula09.png)]()
-[![Aula - Tipos de Software Educacional - Prática](capa_aula10.png)]()
+[![Aula - Tipos de Software Educacional - Teórica](capa_aula09.png)](https://youtu.be/D4pTW1FdKGk)
+[![Aula - Tipos de Software Educacional - Prática](capa_aula10.png)](https://youtu.be/HetfOB1F0RI)
 
 
 
