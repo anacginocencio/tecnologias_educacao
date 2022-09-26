@@ -1,6 +1,6 @@
 # CRONOGRAMA AULAS
 - 09 a 10 de agosto de 2022 - [Histórico Informática na Educação - DISPONÍVEL](aula01.md)
-- 16 a 17 de agosto de 2022 - [Os novos perfis - Aluno e Professor - DISPONÍVEL](aula02.md)
+- 16 a 17 de agosto de 2022 - [Os novos perfis - Aluno e Professor - RPG PLAYGROUND PRÁTICA - DISPONÍVEL](aula02.md)
 - 23 a 31 de agosto de 2022 - [Tecnologias que Educam - DISPONÍVEL](aula03.md)
 - 06 de setembro de 2022 - [Roteiro para jogos educacionais - DISPONÍVEL](aula04.md)
 #### 07 DE SETEMBRO DE 2022 - FERIADO INDEPENDÊNCIA DO BRASIL
