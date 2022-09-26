@@ -9,8 +9,8 @@
 - [Slides aula - Gamificação](gamificacao.pdf)
 
 ### Video aulas  -  Gamificação - Teoria e Prática
-[![Aula - Gamificação - Teoria](capa_aula12.png)]()
-[![Aula - Gamificação - Prática](capa_aula13.png)]()
+[![Aula - Gamificação - Teoria](capa_aula12.png)](https://youtu.be/93LRyB1tKbI)
+[![Aula - Gamificação - Prática](capa_aula13.png)](https://youtu.be/CD7JiDrjj5Y)
 
 
 ### Desenvolvimento aula teórica: 
