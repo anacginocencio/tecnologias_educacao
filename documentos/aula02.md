@@ -14,7 +14,8 @@
 
 ### Video aula  -  Os novos perfis de alunos e professores
 [![Aula - Novos perfis alunos e professores](capa_aula02.png)](https://youtu.be/2yiNoIprd74)
-[![Aula Prática - Novos perfis alunos e professores](capa_aula03.png)](https://youtu.be/w-PZUBzwBNk)
+[![Aula Prática - Novos perfis alunos e professores - RPG PLAYGROUND - PARTE 1](capa_aula03.png)](https://youtu.be/Wp_e4jgpJws)
+[![Aula Prática - Novos perfis alunos e professores - RPG PLAYGROUND - PARTE 2](capa_aula03_1.png)](https://youtu.be/ol6_uwFAW00)
 
 ### Desenvolvimento aula 01 - teórica: 
 
