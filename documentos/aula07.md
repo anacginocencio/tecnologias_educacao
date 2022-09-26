@@ -18,8 +18,7 @@
 - [ ] Definição Gamificação
 - [ ] Vantagens dos jogos e seus benefícios
 - [ ] Elementos PRINCIPAIS da gamificação: META,REGRAS,SISTEMA DE FEEDBACK,PARTICIPAÇÃO VOLUNTÁRIA.
-- [ ] OUTROS elementos que são aplicados: STORYTELLING,AVATAR,DESAFIOS - CONQUISTAS - MISSÕES, RECOMPENSA, PONTUAÇÃO,
-- MOEDAS-DINHEIRO VIRTUAL- LOJA VIRTUAL, MEDALHAS, PROGRESSÃO, FEEDBACK INSTANTÂNEO, COMPETIÇÃO, RANKING.
+- [ ] OUTROS elementos que são aplicados: STORYTELLING,AVATAR,DESAFIOS - CONQUISTAS - MISSÕES, RECOMPENSA, PONTUAÇÃO, MOEDAS-DINHEIRO VIRTUAL- LOJA VIRTUAL, MEDALHAS, PROGRESSÃO, FEEDBACK INSTANTÂNEO, COMPETIÇÃO, RANKING.
 - [ ] Análise de pefil de jogadores e sua importância para um melhor planejamento da gamificação.
 - [Um questionário para análise](http://livrogamification.com.br/quiz/)
 - [ ] Perfis: Realizador, Explorador, Socializador, Predador.
