@@ -9,7 +9,7 @@
 - [Slides aula - Ambientes Virtuais de Aprendizagem](ambientes_virtuais_aprendizagem.pdf)
 
 ### Video aulas  -  Gamificação - Teoria e Prática
-[![Aula - Gamificação - Teoria](capa_aula14.png)]()
+[![Aula - Gamificação - Teoria](capa_aula14.png)](https://youtu.be/k4hz3TDyJ9k)
 
 
 ### Desenvolvimento aula teórica: 
