@@ -12,7 +12,7 @@
 #### 11 DE OUTUBRO DE 2022 - ENTREGA E DISCUSSÃO N1
 #### 12 DE OUTUBRO DE 2022 - FERIADO NOSSA SENHORA APARECIDA
 #### 18 A 19 DE OUTUBRO DE 2022 - CONEPE(https://conepe.ufj.edu.br/)
-- 25 a 26 de outubro de 2022 - [Ambientes Virtuais de Aprendizagem - NÃO DISPONÍVEL]()
+- 25 a 26 de outubro de 2022 - [Ambientes Virtuais de Aprendizagem - DISPONÍVEL](aula08.md)
 - 01 a 08 de novembro de 2022 - [Educação a Distância e o Aluno Virtual - NÃO DISPONÍVEL]()
 #### 02 DE NOVEMBRO DE 2022 - FERIADO FINADOS
 - 16 a 22 de novembro de 2022 - [M-Learning e U-Learning - NÃO DISPONÍVEL]()
