@@ -9,6 +9,7 @@
 - [Slides aula - Educação a Distância](educacao_a_distancia.pdf)
 
 ### Video aula  -  Educação a Distância)
+[![Aula - Educação a Distância](capa_aula15.png)](https://youtu.be/k4hz3TDyJ9k)
 
 
 ### Desenvolvimento aula teórica: 
