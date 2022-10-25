@@ -13,10 +13,10 @@
 #### 12 DE OUTUBRO DE 2022 - FERIADO NOSSA SENHORA APARECIDA
 #### 18 A 19 DE OUTUBRO DE 2022 - CONEPE(https://conepe.ufj.edu.br/)
 - 25 a 26 de outubro de 2022 - [Ambientes Virtuais de Aprendizagem - DISPONÍVEL](aula08.md)
-- 01 a 08 de novembro de 2022 - [Educação a Distância e o Aluno Virtual - NÃO DISPONÍVEL]()
+- 01 a 08 de novembro de 2022 - [Educação a Distância - NÃO DISPONÍVEL]()
 #### 02 DE NOVEMBRO DE 2022 - FERIADO FINADOS
-- 16 a 22 de novembro de 2022 - [M-Learning e U-Learning - NÃO DISPONÍVEL]()
-- 23 de novembro de 2022 - [O futuro das tecnologias no processo de ensino e aprendizabem - NÃO DISPONÍVEL]()
+- 16 a 22 de novembro de 2022 - [O aluno virtual - NÃO DISPONÍVEL]()
+- 23 de novembro de 2022 - [M-Learning e U-Learning - NÃO DISPONÍVEL - NÃO DISPONÍVEL]()
 - 29 a 30 de novembro de 2022 - [Desenvolvimento Projeto - NÃO DISPONÍVEL]()
 #### 02 DE DEZEMBRO DE 2022 - ENTREGA PROTÓTIPO JOGO
 #### 05 DE DEZEMBRO DE 2022 - ENTREGA E DISCUSSÃO MÉDIAS FINAIS
