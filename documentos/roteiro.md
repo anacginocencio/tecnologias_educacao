@@ -16,8 +16,9 @@
 - 01 de novembro de 2022 - [Educação a Distância - DISPONÍVEL](aula09.md)
 #### 02 DE NOVEMBRO DE 2022 - FERIADO FINADOS
 - 08 a 09 de novembro de 2022 - [O aluno virtual - NÃO DISPONÍVEL]()
-- 16 de novembro de 2022 - [Bingo de conceitos]()
-- 22 a 23 de novembro de 2022 - [M-Learning e U-Learning - NÃO DISPONÍVEL]()
+- 16 de novembro de 2022 - [M-Learning e U-Learning - NÃO DISPONÍVEL]()
+- 22 de novembro de 2022 - [Bingo de conceitos]()
+- 23 de novembro de 2022 - [Dsenvolvimento Projeto - NÃO DISPONÍVEL]()
 - 29 de novembro de 2022 - [Desenvolvimento Projeto - NÃO DISPONÍVEL]()
 - 30 de novembro de 2022 - [Caça ao Tesouro]()
 #### 02 DE DEZEMBRO DE 2022 - ENTREGA PROTÓTIPO JOGO
