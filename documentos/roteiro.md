@@ -18,8 +18,8 @@
 - 08 a 09 de novembro de 2022 - [O aluno virtual - DISPONÍVEL](aula10.md)
 - 16 de novembro de 2022 - [M-Learning e U-Learning - DISPONÍVEL](aula11.md)
 - 22 de novembro de 2022 - [Bingo de conceitos](aula12.md)
-- 23 de novembro de 2022 - [Dsenvolvimento Projeto - NÃO DISPONÍVEL]()
-- 29 de novembro de 2022 - [Desenvolvimento Projeto - NÃO DISPONÍVEL]()
+- 23 de novembro de 2022 - [Dsenvolvimento Projeto - DISPONÍVEL](aula13.md)
+- 29 de novembro de 2022 - [Desenvolvimento Projeto - DISPONÍVEL](aula13.md)
 - 30 de novembro de 2022 - [Caça ao Tesouro]()
 #### 02 DE DEZEMBRO DE 2022 - ENTREGA PROTÓTIPO JOGO
 #### 05 DE DEZEMBRO DE 2022 - ENTREGA E DISCUSSÃO MÉDIAS FINAIS
