@@ -16,7 +16,7 @@
 - 01 de novembro de 2022 - [Educação a Distância - DISPONÍVEL](aula09.md)
 #### 02 DE NOVEMBRO DE 2022 - FERIADO FINADOS
 - 08 a 09 de novembro de 2022 - [O aluno virtual - DISPONÍVEL](aula10.md)
-- 16 de novembro de 2022 - [M-Learning e U-Learning - NÃO DISPONÍVEL]()
+- 16 de novembro de 2022 - [M-Learning e U-Learning - DISPONÍVEL](aula11.md)
 - 22 de novembro de 2022 - [Bingo de conceitos]()
 - 23 de novembro de 2022 - [Dsenvolvimento Projeto - NÃO DISPONÍVEL]()
 - 29 de novembro de 2022 - [Desenvolvimento Projeto - NÃO DISPONÍVEL]()
