@@ -1,29 +1,32 @@
 # O uso de "tecnologias" no processo de ensino e aprendizagem
-## Tema aula - Gamificação
+## Tema aula - M-learning e U-learning
  
->  * Apresentar conceito sobre gamificação e refletir sobre os principais elementos necessários no processo de gamificação.
-
-## Atividades da aula - Definição de Gamificação, Elementos, a importância da análise de perfil dos jogadores
+>  *Entender os principais conceitos relacionados a uma aprendizagem móvel e uma aprendizagem ubíqua, suas aplicações e vantagens.
+>  
+## Atividades da aula - Visão geral, conceitos básicos. Conteúdo extra: Aplicação e vantagens do M-learning e U-Learning
 
 ### Materiais
-- [Slides aula - Gamificação](gamificacao.pdf)
+- [Slides aula - M-learning e U-learning](m_learning_e_u_learning.pdf)
 
-### Video aulas  -  Gamificação - Teoria e Prática
-[![Aula - Gamificação - Teoria](capa_aula12.png)](https://youtu.be/93LRyB1tKbI)
-[![Aula - Gamificação - Prática](capa_aula13.png)](https://youtu.be/CD7JiDrjj5Y)
+### Video aula  -  M-learning e U-learning)
+[![Aula - M-learning e U-learning](capa_aula17.png)]()
 
 
 ### Desenvolvimento aula teórica: 
+- [ ] Diferenciar: e-learning, m-learning e u-learning
+- [ ] Diferentes práticas relacionadas ao conceito de m-learning: e-learning portátil, aprendizagem em sala de aula apoiada por tecnologia, capacitação e treinamento móvel,inclusão e diversidade
+- [ ] Definição de m-learning
+- [ ] Mobilidade física, mobilidade tecnológica, mobilidade conceitual, mobilidade sociointeracional, mobilidade temporal
+- [ ] U-learning (aprendizagem ubíqua) - conceito mais abrangente que o m-learning, originado a partir da noção de compubação ubíqua
+- [ ] Computação ubíqua envolve a existência de diversos computadores interconectados por redes sem fio. Adicionalmente, a computação ubíqua inclui o uso de sensores que tornam os dispositivos computacionais "cientes" de cada usuários de forma "inteligente".
+- [ ] Exemplo: tire uma foto e saiba o nome da planta.
 
-- [ ] Definição Gamificação
-- [ ] Vantagens dos jogos e seus benefícios
-- [ ] Elementos PRINCIPAIS da gamificação: META,REGRAS,SISTEMA DE FEEDBACK,PARTICIPAÇÃO VOLUNTÁRIA.
-- [ ] OUTROS elementos que são aplicados: STORYTELLING,AVATAR,DESAFIOS - CONQUISTAS - MISSÕES, RECOMPENSA, PONTUAÇÃO, MOEDAS-DINHEIRO VIRTUAL- LOJA VIRTUAL, MEDALHAS, PROGRESSÃO, FEEDBACK INSTANTÂNEO, COMPETIÇÃO, RANKING.
-- [ ] Análise de pefil de jogadores e sua importância para um melhor planejamento da gamificação.
-- [Um questionário para análise de perfil de jogador](http://livrogamification.com.br/quiz/)
-- [ ] Perfis: Realizador, Explorador, Socializador, Predador.
-- [ ] Gamificação em andamento: Kahoot GAMIFICAÇÃO
+
 
 ### Desenvolvimento aula  - prática: 
-- [ ]  Desenvolvimento de atividades no Kahoot
-- [ ]  Conforme sorteio compartilha atividade com a sala.
+- [ ]  Desenvolvimento do projeto: Sugestão:
+- [ ]  RPG - (https://rpgplayground.com)
+- [ ]  GameSalad: (https://gamesalad.com/)
+- [ ]  Gdevelop: (https://gdevelop-app.com/)
+
+
