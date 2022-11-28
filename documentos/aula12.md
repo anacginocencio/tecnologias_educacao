@@ -1,5 +1,5 @@
 # O uso de "tecnologias" no processo de ensino e aprendizagem
-## GAMIFICAÇÃO - BINCO DE CONCEITOS
+## GAMIFICAÇÃO - BINGO DE CONCEITOS
  
 > Será feito um bingo com os conceitos estudados em toda a disciplina, cada cartela terá 6 respostas e as perguntas serão sorteadas aleatoriamente.
 > Primeiro lugar: 1000 pontos
