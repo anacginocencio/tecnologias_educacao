@@ -1,31 +1,25 @@
 # O uso de "tecnologias" no processo de ensino e aprendizagem
-## Tema aula - Educação a Distância
+## Tema aula - O Aluno Virtual
  
->  * Retomar os conteúdos já vistos, abordar os principais conceitos de educação a distância
+>  *Refletir sobre quem é este aluno virtual e os diferentes estilos de aprendizagem
 >  
-## Atividades da aula - Conceitos Básicos de educação a distância, Contexto histórico, A Importância da Interação
+## Atividades da aula - Quem é o aluno virtual? O aluno virtual de sucesso; Os diferentes estilos de aprendizagem e as técnicas instrucionais para cada estilo; o que o aluno virtual precisa
 
 ### Materiais
-- [Slides aula - Educação a Distância](educacao_a_distancia.pdf)
+- [Slides aula - O aluno virtual](o_aluno_virtual.pdf)
 
-### Video aula  -  Educação a Distância)
-[![Aula - Educação a Distância](capa_aula15.png)](https://youtu.be/4ARWHfVKUds)
+### Video aula  -  O Aluno Virtual)
+[![Aula - O aluno virtual](capa_aula16.png)]()
 
 
 ### Desenvolvimento aula teórica: 
 
-- [ ] Recordar os temas abordados em nossas aulas e verificar se existe alguma dúvida sobre algum dos temas
-- [ ] Apresentar os temas que serão vistos
-- [ ] Idéia básica de educação à distância e conceitos principais
-- [ ] Componentes de um sistema de EaD operacional
-- [ ] Ensinar como VIAGEM AÉREA ATUAL X VIAGEM AÉREA ANTIGAMENTE
-- [ ] O aluno no centro do sistema
-- [ ] Criação de curso por equipe multidisciplinar
-- [ ] O papel dos instrutores/tutores
-- [ ] Linha do tempo da educação a distância
-- [ ] Anna Eliot e a educação a distância em 1873
-- [ ] Os tipos de interação: ALUNO - CONTEÚDO; ALUNO - INSTRUTOR/TUTOR; ALUNO - ALUNO
-
+- [ ] A maioria dos alunos que estudam on-line são adultos, pois este tipo de aprendizagem permite uma continuidade no trabalho
+- [ ] Sendo assim, é preciso entender este tipo de público, que aprecia um maior controle sobre o que está acontecendo
+- [ ] AUTOMOTIVAÇÃO E AUTODISCIPLINA são essenciais para o aluno virtual
+- [ ] Diferentes estilos de aprendizagem: visual-verbal, visual-não verbal ou visual-espacial,Auditivo-verbal ou verbal-linguístico, tátil-cinestésico ou corporal-cinestésico, lógico-matemático, interpessoal-relacional, intrapessoal-relacional
+- [ ] Teste para verificar o estilo de aprendizagem: (https://www.makerzine.com.br/testes/teste-descubra-qual-e-o-seu-estilo-de-aprendizagem-segundo-o-modelo-felder-silverman/)
+- [ ] O aluno virtual precisa se sentir parte do sistema, ou seja, precisa de todos os serviços que poderiam ser ofertados caso fosse presencial.
 
 ### Desenvolvimento aula  - prática: 
-- [ ]  GENIALLY - utilizar o genially para criação de um conteúdo interativo.
+- [ ]  Ferramenta Quizizz - (https://quizizz.com/?lng=pt-BR)
