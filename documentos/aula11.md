@@ -9,7 +9,7 @@
 - [Slides aula - M-learning e U-learning](m_learning_e_u_learning.pdf)
 
 ### Video aula  -  M-learning e U-learning)
-[![Aula - M-learning e U-learning](capa_aula17.png)]()
+[![Aula - M-learning e U-learning](capa_aula17.png)](https://youtu.be/D3ioEDnwlg0)
 
 
 ### Desenvolvimento aula teórica: 
