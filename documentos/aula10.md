@@ -9,7 +9,7 @@
 - [Slides aula - O aluno virtual](o_aluno_virtual.pdf)
 
 ### Video aula  -  O Aluno Virtual)
-[![Aula - O aluno virtual](capa_aula16.png)]()
+[![Aula - O aluno virtual](capa_aula16.png)](https://youtu.be/d37eqJknOqo)
 
 
 ### Desenvolvimento aula teórica: 
